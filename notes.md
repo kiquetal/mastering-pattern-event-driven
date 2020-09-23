@@ -18,4 +18,12 @@
 
 	No lost messages,but perfomance, throughput and duplicates.
 
-#### 	
+#### Thread,Delegate pattern
+
+	Not every message must be in order,but rather message withtin context must be ordered.
+
+	maintain processing order
+	increase throughput
+	increase perfomance
+	increase scalability
+	
